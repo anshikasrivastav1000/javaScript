@@ -37,3 +37,5 @@ const End = lastFour.padEnd('10','*')
 const U = "hi there i'm ash"
 const w = U.charCodeAt(3);
 
+//template literals
+const templateString =`last four digit ${'hell' + ' ' }of my acc no is`;
