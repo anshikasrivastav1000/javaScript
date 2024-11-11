@@ -19,7 +19,7 @@ const isInclude = arr2.includes(cat);
 const reverse = arr2.reverse();
 
 const shot = arr2.shot();
-//ye aplabetacial or numercical short kr deta hai or oroginal array ko bhi modify krta hai capital or cxsmaller case ko alg alg treat krta hai
+//ye aplabetacial or numercical short kr deta hai or oroginal array ko bhi modify krta hai capital or smaller case ko alg alg treat krta hai
 
 //slice(start, end)
 const slice = arr2.slice( ) 
